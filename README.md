@@ -8,7 +8,9 @@
  🙃 Olá, meu é Luis Felipe. Sou desenvolvedor e Analista de Sistemas com experiência em ERP Protheus (TOTVS), desenvolvimento web e integração de sistemas, com foco em criar soluções que otimizam processos internos e melhoram a experiência do usuário. 
   Minhas principais experiências incluem: 
 
-   - Desenvolvimento de módulos no ERP Protheus (ADVPL/TLPP); Criação de aplicações modernas com Angular e ReactJS
+   - Desenvolvimento de módulos no ERP Protheus (ADVPL/TLPP)
+   
+   - Criação de aplicações modernas com Angular e ReactJS
 
    - Consumo e criação de APIs REST
 
